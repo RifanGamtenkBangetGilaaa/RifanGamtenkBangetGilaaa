@@ -1,14 +1,13 @@
------ ADVANCE PLUGIN WINGS -----
-This plugin like CustomWings
---------------------------------
---Feature--
-• Add Custom Wings For Your Server!
-• Simple Setup
-• Free Not Pay
---------------------------------
---Usage--
-/starswing - Open UI
---Alias--
-/sw - Open UI
-/stw - Open UI
---------------------------------
+----- ADVANCE PLUGIN WINGS -----\n
+This plugin like CustomWings\n
+--Feature--\n
+• Add Custom Wings For Your Server!\n
+• Simple Setup\n
+• Free Not Pay\n
+--------------------------------\n
+--Usage--\n
+/starswing - Open UI\n
+--Alias--\n
+/sw - Open UI\n
+/stw - Open UI\n
+--------------------------------\n
